@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="1:31">
+  <meta name="twitter:image" content="https://ei.phncdn.com/pics/albums/075/227/111/830823951/(m=e-yaaGqaq)(mh=zvq95NZcBQFeeDeG)original_830823951.jpg">
+  
+  <title>1:31</title>
+  <style>
+    .container {
+      position: relative;
+      display: inline-block;
+    }
+    .image {
+      width: 100%;
+      max-width: 600px; /* Ограничим ширину картинки */
+    }
+    .timecode {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      font-size: 24px;
+      color: white;
+      font-weight: bold;
+      background-color: rgba(0, 0, 0, 0.6); /* Полупрозрачный фон для текста */
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <a href="https://clladss.com/get/?spot_id=1446455&cat=25&subid=775882666" target="_blank">
+      <img src="https://ei.phncdn.com/pics/albums/075/227/111/830823951/(m=e-yaaGqaq)(mh=zvq95NZcBQFeeDeG)original_830823951.jpg" class="image">
+      <div class="timecode">1:31</div>
+    </a>
+  </div>
+
+</body>
+</html>
